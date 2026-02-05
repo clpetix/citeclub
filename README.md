@@ -38,7 +38,7 @@ For example, the key above becomes: `petix:jctc:2024`
 
 **Features:**
 - Processes `.bib` files or individual BibTeX entries.
-- Processes `@artcile`, `@book`, and `@inabook` styles. 
+- Processes `@article`, `@book`, and `@inabook` styles. 
 - Customizeable journal names mapping to standardized BibTeX keys.
 - Handles author name formatting and accent removal.
 - Outputs a new `-tidied.bib` file, leaving the original untouched.
